@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the true Protestant doctor, the Reverend Titus Oates, Dean of Salamanca, and Bishop of Weavers-Hall, at his apartment in Southwark, from Timothy Trimmer his friend in London</title>
+            <author>Trimmer, Timothy.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63238</idno>
+            <idno type="STC">Wing T2276A</idno>
+            <idno type="STC">ESTC R1305</idno>
+            <idno type="EEBO-CITATION">11950076</idno>
+            <idno type="OCLC">ocm 11950076</idno>
+            <idno type="VID">51362</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63238)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51362)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 519:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the true Protestant doctor, the Reverend Titus Oates, Dean of Salamanca, and Bishop of Weavers-Hall, at his apartment in Southwark, from Timothy Trimmer his friend in London</title>
+                  <author>Trimmer, Timothy.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Broadside.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oates, Titus, 1649-1705.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:51362:1"/>
+            <head>A LETTER To the True Proteſtant Doctor, The Reverend Titus Oates, Dean of <hi>Salamanca,</hi> and Biſhop of <hi>Weavers-Hall,</hi> at his Apartment in <hi>Southwark,</hi> from <hi>Timothy Trimmer</hi> his Friend.</head>
+            <head type="sub">IN LONDON.</head>
+            <opener>
+               <salute>Doctor,</salute>
+            </opener>
+            <p>I Cannot but Compaſſionate the preſent Sufferings, under whoſe weight you are now Preſt; and the whole World is not Ignorant how great an Advocate I have been, and ſtill am, in your Behalf; not only in my Daily and publick Controverſies with that malicious Diſcoverer of your In<g ref="char:EOLhyphen"/>treagues and Veracities, <hi>Old Nobs,</hi> but alſo in the private Intelligences and Secret Correſpondencies, held and mannaged with the only True and <hi>Proteſtant</hi> Preſervers of their Country, the Falſly ſtiled <hi>Fanatical</hi> Party.</p>
+            <p>But alas, my endeavours have been in Vain, I have been towing againſt Wind and Tide to bring our bottom to its deſigned Harbour; but the Storm is ſo great, our Tackle is Broke, we are got a Drift, and our Veſſel is now Split. To lay the cauſe hereof at your Door, would but add Affliction to the Miſereble: yet in Truth I muſt ſay you have not managed the Tallant your <hi>great Maſter</hi> gave you, to that advantage as you might have done: whence in a great meaſure it is that this Damage is come upon us: for had People really, as in Davs of yore, believed your <hi>Plot,</hi> and every Moment expected the <hi>Spainiſh Pilgrims</hi> at their Back-ſides, the <hi>black Bills</hi> and <hi>Muſtard-balls</hi> at their Throats and Habitations, they would not have had the leiſure to have looked about what was deſigning by the Faithful and true Lovers of their Country at Home. We might have Effected our Purpoſes on the two <hi>Brothers</hi> at <hi>White-Hall,</hi> and made the ſame a further Confirmation of the <hi>Popiſh Plot:</hi> we might have taken off the <hi>Tory Biſhops, Tory Guards, Tory May<g ref="char:EOLhyphen"/>ors</hi> and <hi>Sheriffs,</hi> and all the <hi>Tory</hi> Friends of <hi>Monarchy,</hi> and ſet up a True Refor<g ref="char:EOLhyphen"/>med <hi>Church</hi> and <hi>State</hi> amongſt our ſelves. But alas theſe Days are over, the Eyes of People are now Open, and ſcarce a Boy in the Street, but can give one Inſtance or another of your Confounded Veracities: inſomuch that your old Friends very hardly part with their wonted Contributions; and my Trouble
+<pb facs="tcp:51362:2" rendition="simple:additions"/>is five times more at preſent in Collecting them than ever, and many of them are behind: inſomuch that I believe could they be Poſſeſt or ſecured by the other Party, that you ſhould not Swear them into the <hi>Fanatical,</hi> as you Swore them out of the <hi>Popiſh Plot:</hi> you might e'en turn <hi>Papiſt</hi> again for them, and Damn your own Soul to get Chops of <hi>Mutton</hi> at St. <hi>Omers;</hi> for between you and I, 'tis Intereſt binds the Party, and were not there ſomething of this kind in the matter, you might reduce your Family, and live without the uſe of <hi>Men-Servants.</hi>
+            </p>
+            <p>Let me therefore adviſe you to ſignifie your Will and Pleaſure to them forthwith; that unleſs they pay down their Subſcriptions, you will open your Swearing Mouth, take the <hi>Bible</hi> into your Swearing Hand, and let flye ſuch a <hi>So help me God</hi> againſt them that ſhall bring the thoughts of <hi>Ketch</hi> and <hi>Devil</hi> into the Sobereſt Noddle amongſt them. This is your only way: For give me leave to whiſper in your Ear, there is ſcarce a conſiderable Man amongſt them, but is afraid every time he ſees the Staffe of Authority go by his Door, that ſome Evidencing Brother hath told Tales of him: and if they fear them, what would they do by you that are ſo great a Maſter in the Art, and know ſo much of their Intreagues, who can raiſe a <hi>Mountain</hi> from a <hi>Mole-Hill:</hi> and make nothing ſeem ſo much in the true methods of Evidence. In ſhort, their Fear preſerves them your Subjects; and while you hold their Noſes to your Girdle, they may ſmell a Knave, but know not how to be rid of him. It is an Age of Policy, and ſince Honeſty thrives not, that Conſcience is very Barren, that can plant no other Herb of Profit there. Yours and Mine are neither of them ſuch, but thanks to our Stars, if we cannot tra<g ref="char:EOLhyphen"/>vel the plain Rode, the Hedges and Ditches in our way ſhall never retard us. Pray Commend me to your fellow Sufferers, to whom I hear you are made Chaplain in Ordinary. It is a great Bleſſing you are amongſt them, and much for their general Profit, if they know how to improve it. I hope our Brother <hi>B—ll</hi> ſpends his time there for the advantage of his Country, in proving his great Syſteem, that Monarchy is Deſtructive to Trade: wherein I doubt not but he is ſeconded by his Ingenious Companions, the reſt of the Brethren. In your next, let me have account whether Sir <hi>T. P.</hi> is not pined a way for the want of Mother <hi>Creſwells</hi> Proviſions for the Carnal part of him. It is very Hot Weather, and the Rebellions of the Fleſh are many and often, which tho ſuch as are at Large have a ſupply for; yet I know not how it fares with you: as to your ſelf indeed you have a double Advantage over your Neighbours, for Man and Woman both Adminiſter to your Occaſions. But of this no more, till I ſee you, leaſt it ſhould come to a Diſcovery of the Worlds Eye; and who knows what advantage may be made thereof amongſt the Wicked, who conſider not the <hi>Spiritual Licenſe</hi> which is taken by the <hi>Brethren,</hi> in relation to theſe Matters; whilſt the ſame is uſed for the inward Comfort and Refreſhment of the <hi>Righteous,</hi> and in a <hi>True-Proteſtant</hi> Privacy, w<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch muſt be always regarded, and wherein I doubt not of your Caution. I Conclude with my Wiſhes for your Enlargement, in order to the publick Benefit, and the reception of your <hi>juſt Demerits,</hi> who am</p>
+            <closer>
+               <signed>Your conſtant Abbettor, Friend and Servant <hi>Timothy Trimmer.</hi>
+               </signed>
+               <dateline>From <hi>Whigland,</hi> near our late great <hi>Patroons</hi> Houſe, <date>
+                     <hi>Auguſt</hi> the 1<hi>ſt.</hi> 1684.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Croon,</hi> at the <hi>Blue-Ball,</hi> over againſt <hi>Baynard</hi>'s <hi>Caſtle,</hi> in <hi>Thames-ſtreet,</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
